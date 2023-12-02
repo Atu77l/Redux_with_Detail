@@ -1,0 +1,1 @@
+# Redux_with_Detail
